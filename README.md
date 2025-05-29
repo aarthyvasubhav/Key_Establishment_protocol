@@ -45,3 +45,17 @@ The protocol demonstrates:
 ├── keys/                      # RSA key pairs
 ├── utils/                     # Helper functions for encryption, validation
 └── README.md                  # Project documentation
+
+
+How to Run
+Clone the repository:
+
+git clone https://github.com/aarthyvasubhav/Key_Establishment_protocol.git
+cd Key_Establishment_protocol
+Ensure you have Python 3 and the cryptography library:
+
+pip install cryptography
+Run the simulation:
+
+python main.py
+Follow on-screen prompts to simulate secure key exchange and messaging.
